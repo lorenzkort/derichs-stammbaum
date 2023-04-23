@@ -1,0 +1,598 @@
+[
+    {
+        "name": "Hans (Johannes) Derichs",
+        "birthYear": "",
+        "occupation": "Artzt",
+        "placeOfResidency": "Stadtallendorf",
+        "children": [
+            "Elke Maier",
+            "Heinke Derichs",
+            "Ute Nöcker",
+            "Ortrud Lübke",
+            "Frauke Weiger"
+        ],
+        "partner": "Käthi Jäckel",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 1
+    },
+    {
+        "name": "Käthi Jäckel",
+        "birthYear": "1916",
+        "occupation": "Medizinisch Technische Assitentin",
+        "placeOfResidency": "Stadtallendorf",
+        "children": [
+            "Elke Maier",
+            "Heinke Derichs",
+            "Ute Nöcker",
+            "Ortrud Lübke",
+            "Frauke Weiger"
+        ],
+        "partner": "Hans (Johannes) Derichs",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 1
+    },
+    {
+        "name": "Elke Maier",
+        "birthYear": "1940",
+        "occupation": "Zahnartzt",
+        "placeOfResidency": "Nürtingen",
+        "children": [
+            "Mark Maier"
+        ],
+        "partner": "Robert Maier",
+        "parents": [
+            "Käthi Jäckel",
+            "Hans (Johannes) Derichs"
+        ],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Robert Maier",
+        "birthYear": "1939",
+        "occupation": "Architekt",
+        "placeOfResidency": "Nürtingen",
+        "children": [
+            "Mark Maier"
+        ],
+        "partner": "Elke Maier",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Mark Maier",
+        "birthYear": "1965",
+        "occupation": "Metalkundler und Lehrer",
+        "placeOfResidency": "Alkmaar, NL",
+        "children": [
+            "Karla Kort",
+            "Lorenz Kort"
+        ],
+        "partner": "Damaris Kort",
+        "parents": [
+            "Robert Maier",
+            "Elke Maier"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Damaris Kort",
+        "birthYear": "1963",
+        "occupation": "Gesangslehrerin und Ehemalige Musiktherapeutin",
+        "placeOfResidency": "Alkmaar, NL",
+        "children": [
+            "Karla Kort",
+            "Lorenz Kort"
+        ],
+        "partner": "Mark Maier",
+        "parents": [
+            "Christel Kort",
+            "Werner Kort"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Karla Kort",
+        "birthYear": "1994",
+        "occupation": "Mechanische Design Ingenieurin",
+        "placeOfResidency": "Deventer, NL",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Mark Maier",
+            "Damaris Kort"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+
+    },
+    {
+        "name": "Lorenz Kort",
+        "birthYear": "1996",
+        "occupation": "Daten Ingenieur",
+        "placeOfResidency": "Haarlem, NL",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Mark Maier",
+            "Damaris Kort"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Heinke Derichs",
+        "birthYear": "",
+        "occupation": "Ärtztin",
+        "placeOfResidency": "Stadtallendorf",
+        "children": [
+            "Ortwin Schuchardt",
+            "Elmar Schuchardt"
+        ],
+        "partner": "Gerhardt Schuchardt",
+        "parents": [
+            "Käthi Jäckel",
+            "Hans (Johannes) Derichs"
+        ],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Gerhardt Schuchardt",
+        "birthYear": "",
+        "occupation": "Artzt",
+        "placeOfResidency": "Stadtallendorf",
+        "children": [
+            "Ortwin Schuchardt",
+            "Elmar Schuchardt"
+        ],
+        "partner": "Heinke Derichs",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Ortwin Schuchardt",
+        "birthYear": "",
+        "occupation": "Artzt",
+        "placeOfResidency": "Amöneburg",
+        "children": [
+            "Jana Schuchardt",
+            "Gero Schuchardt"
+        ],
+        "partner": "Anja Schuchardt",
+        "parents": [
+            "Heinke Derichs",
+            "Gerhardt Schuchardt"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Anja Schuchardt",
+        "birthYear": "",
+        "occupation": "Lehrerin",
+        "placeOfResidency": "Amöneburg",
+        "children": [
+            "Jana Schuchardt",
+            "Gero Schuchardt"
+        ],
+        "partner": "Ortwin Schuchardt",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Jana Schuchardt",
+        "birthYear": "",
+        "occupation": "Ärtztin",
+        "placeOfResidency": "Leipzig",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Ortwin Schuchardt",
+            "Anja Schuchardt"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Gero Schuchardt",
+        "birthYear": "Artzt in Ausbildung",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Ortwin Schuchardt",
+            "Anja Schuchardt"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Elmar",
+        "birthYear": "",
+        "occupation": "Artzt",
+        "placeOfResidency": "Eichstädt",
+        "children": [],
+        "partner": "Regina",
+        "parents": [
+            "Gerhardt Schuchardt",
+            "Heinke Derichs"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Regina",
+        "birthYear": "",
+        "occupation": "Ärtztin",
+        "placeOfResidency": "Eichstädt",
+        "children": [],
+        "partner": "Elmar",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Laura",
+        "birthYear": "",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Elmar",
+            "Regina"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Silia",
+        "birthYear": "",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Elmar",
+            "Regina"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Ute Nöcker",
+        "birthYear": "",
+        "occupation": "Kostmetikerin",
+        "placeOfResidency": "Brühl",
+        "children": [
+            "Astrid Nöcker",
+            "Ralph Nöcker"
+        ],
+        "partner": "Friedhelm Nöcker",
+        "parents": [
+            "Hans (Johannes) Derichs",
+            "Käthi Jäckel"
+        ],
+        "dateOfDeath": "J",
+        "generation": 2
+    },
+    {
+        "name": "Friedhelm Nöcker",
+        "birthYear": "1938",
+        "occupation": "Soldat/Major",
+        "placeOfResidency": "Brühl",
+        "children": [
+            "Astrid Nöcker",
+            "Ralph Nöcker"
+        ],
+        "partner": "Ute Nöcker",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Astrid Nöcker",
+        "birthYear": "",
+        "occupation": "Florist",
+        "placeOfResidency": "Brühl",
+        "children": [],
+        "partner": "",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Ralph Nöcker",
+        "birthYear": "",
+        "occupation": "bei 3M",
+        "placeOfResidency": "Brühl",
+        "children": [
+            "Milena Nöcker"
+        ],
+        "partner": "Andrea Nöcker",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Milena Nöcker",
+        "birthYear": "",
+        "occupation": "",
+        "placeOfResidency": "Köln",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Ralph Nöcker",
+            "Andrea Nöcker"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Andrea Nöcker",
+        "birthYear": "",
+        "occupation": "",
+        "placeOfResidency": "Köln",
+        "children": [
+            "Milena Nöcker"
+        ],
+        "partner": "Ralph Nöcker",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Ortrud Lübke",
+        "birthYear": "1951",
+        "occupation": "Lehrerin",
+        "placeOfResidency": "Esslingen",
+        "children": [
+            "Julia Lübke",
+            "Eva Lübke"
+        ],
+        "partner": "Ulrich Lübke",
+        "parents": [
+            "Hans (Johannes) Derichs",
+            "Käthi Jäckel"
+        ],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Ulrich Lübke",
+        "birthYear": "1947",
+        "occupation": "",
+        "placeOfResidency": "Esslingen",
+        "children": [
+            "Julia Lübke",
+            "Eva Lübke"
+        ],
+        "partner": "Ortrud Lübke",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Julia Lübke",
+        "birthYear": "1977",
+        "occupation": "Juristin",
+        "placeOfResidency": "Frankfurt",
+        "children": [
+            "Emma",
+            "Felix"
+        ],
+        "partner": "Phillipp",
+        "parents": [
+            "Ulrich Lübke",
+            "Ortrud Lübke"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Phillipp",
+        "birthYear": "1977",
+        "occupation": "Anwalt",
+        "placeOfResidency": "Frankfurt",
+        "children": [
+            "Emma",
+            "Felix"
+        ],
+        "partner": "Julia Lübke",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Emma",
+        "birthYear": "2011",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Julia Lübke",
+            "Phillipp"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Felix",
+        "birthYear": "2013",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Julia Lübke",
+            "Phillipp"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Eva Lübke",
+        "birthYear": "1979",
+        "occupation": "",
+        "placeOfResidency": "Leipzig",
+        "children": [
+            "Matthis",
+            "Line"
+        ],
+        "partner": "Steffen",
+        "parents": [
+            "Ortrud Lübke",
+            "Ulrich Lübke"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Steffen",
+        "birthYear": "",
+        "occupation": "Leipzig",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "Eva Lübke",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Matthis",
+        "birthYear": "2004",
+        "occupation": "",
+        "placeOfResidency": "Leipzig",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Eva Lübke",
+            "Steffen"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Line",
+        "birthYear": "2007",
+        "occupation": "",
+        "placeOfResidency": "Leipzig",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Eva Lübke",
+            "Steffen"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    },
+    {
+        "name": "Frauke Weiger",
+        "birthYear": "1955",
+        "occupation": "Fysiotherapeut",
+        "placeOfResidency": "",
+        "children": [
+            "Wiebke Weiger",
+            "Helge Weiger"
+        ],
+        "partner": "Christoph Weiger",
+        "parents": [
+            "Hans (Johannes) Derichs",
+            "Käthi Jäckel"
+        ],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Christoph Weiger",
+        "birthYear": "1951",
+        "occupation": "Lehrer",
+        "placeOfResidency": "",
+        "children": [
+            "Wiebke Weiger",
+            "Helge Weiger"
+        ],
+        "partner": "Frauke Weiger",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 2
+    },
+    {
+        "name": "Wiebke Weiger",
+        "birthYear": "1990",
+        "occupation": "Referentin",
+        "placeOfResidency": "Berlin",
+        "children": [],
+        "partner": "Fabian",
+        "parents": [
+            "Frauke Weiger",
+            "Christoph Weiger"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Fabian",
+        "birthYear": "1987",
+        "occupation": "Statistiker",
+        "placeOfResidency": "Berlin",
+        "children": [],
+        "partner": "Wiebke Weiger",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Helge Weiger",
+        "birthYear": "1992",
+        "occupation": "Material Ingenieur",
+        "placeOfResidency": "Nürnberg",
+        "children": [
+            "Johannes"
+        ],
+        "partner": "Katharina",
+        "parents": [
+            "Frauke Weiger",
+            "Christoph Weiger"
+        ],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Katharina",
+        "birthYear": "1991",
+        "occupation": "Ingenieur",
+        "placeOfResidency": "Nürnberg",
+        "children": [
+            "Johannes"
+        ],
+        "partner": "Helge Weiger",
+        "parents": [],
+        "dateOfDeath": "",
+        "generation": 3
+    },
+    {
+        "name": "Johannes",
+        "birthYear": "2022",
+        "occupation": "",
+        "placeOfResidency": "",
+        "children": [],
+        "partner": "",
+        "parents": [
+            "Helge Weiger",
+            "Katharina"
+        ],
+        "dateOfDeath": "",
+        "generation": 4
+    }
+]
